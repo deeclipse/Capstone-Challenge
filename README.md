@@ -6,4 +6,4 @@ Conditions: \
 ✅ Design a structured, modular program that integrates multiple C concepts. \
 ✅ Ensure your code is efficient, readable, and well-documented. \
 ✅ Debug, optimize, and test your program for robustness.  \ 
-✅ Demonstrate creativity—your project should be functional and meaningful. \
+✅ Demonstrate creativity—your project should be functional and meaningful.
